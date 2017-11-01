@@ -8,13 +8,13 @@ ueee
 eee
 ueoueo
 ueoueo
-
-some change
 eee
+some change
+eeett
 change again
 ueou
-change again
-
+change againeeeeuuu
+ee
 cool!
 eee
 ee
@@ -27,3 +27,5 @@ ueou
 eee
 
 a test!
+eee
+an awesome change!
