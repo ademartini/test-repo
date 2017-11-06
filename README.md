@@ -6,7 +6,7 @@ uuu
 eeee
 ueee
 eee
-ueoueo
+ueoueoeee
 ueoueo
 eee
 some change
