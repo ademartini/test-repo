@@ -6,12 +6,12 @@ uuu
 eeee
 ueee
 eee
-ueoueo
+ueoueoeee
 ueoueo
 eee
 some change
-eeett
-change again
+eeeeeeeeeeee
+change againeeeee
 ueou
 change againeeeeuuu
 ee
@@ -25,7 +25,4 @@ ueoueoueo
 hello!
 ueou
 eee
-
-a test!
-eee
-an awesome change!
+blarg!!
